@@ -27,7 +27,7 @@ apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
     namespace "com.example.flutterr_awesome_notification"
-    compileSdkVersion 33 //chg by kumaresan
+    compileSdkVersion 34 //chg by kumaresan
     ndkVersion flutter.ndkVersion
 
     compileOptions {

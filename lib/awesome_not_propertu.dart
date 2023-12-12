@@ -108,7 +108,7 @@ class _AwesomeNotificationsPropertiesState
           notificationLayout: NotificationLayout.BigText,
         ),
         schedule: NotificationCalendar(
-            weekday: 1, hour: 0, minute: 3, repeats: true, second: 0));
+            weekday: 2, hour: 13, minute: 55, repeats: true, second: 0));
   }
 
   inboxnotifications() {
